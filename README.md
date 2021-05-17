@@ -1,6 +1,9 @@
 # SkVaniject
 ## 説明
-多分需要ないです。<s>もしかしたら代用あるかもしれません。</s>というかありました→(Skellett)
+<s>多分需要ないです。もしかしたら代用あるかもしれません。</s>というかあるっぽいです→(Skellett)
+<br />
+完全に需要がなかったのでもう開発しません。
+<br />
 コードの可読性は低めですわよ
 <br />
 It is a plugin that allows you to operate objectives on the vanilla scoreboard with Skript.Most Skript add-ons have their own scoreboard, so they can't take over the vanilla scoreboard objectives.
