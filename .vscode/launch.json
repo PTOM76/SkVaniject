@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MCServer(Windows)",
+            "request": "launch",
+            "preLaunchTask": "mcdebugwin",
+            "mainClass": "ml.pkom.test.Main"
+        }
+    ]
+}
